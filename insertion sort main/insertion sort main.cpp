@@ -12,7 +12,7 @@ int main(int argc, char** argv)
         int x = 0;
         cin >> x;
         insertion_array[i] = x;
-    } //getting all user inputs! bubble sort starts here!
+    } //getting all user inputs! insertion sort starts here!
     int current_item = 0;
 
     for (int i = 0; i < n; i++) {
